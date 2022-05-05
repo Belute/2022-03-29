@@ -18,17 +18,17 @@ Justinas: [Github](https://github.com/Belute)
 #### How To Use
 
 
-- Open integrated terminal for backend directory and rename it backend
+- Open integrated terminal for backend directory and rename it: backend
 
-- Open integrated terminal for frontend directory and rename it frontend
+- Open integrated terminal for frontend directory and rename it: frontend
 
-- In backend terminal type npm install nodemon
+- In backend terminal type: npm install nodemon
 
-- In backend terminal type npm run start
+- In backend terminal type: npm run start
 
-- In frontend terminal type npm install
+- In frontend terminal type: npm install
 
-- In frontend terminal type npm run start
+- In frontend terminal type: npm run start
 
 ##### How To Use
 
