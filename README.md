@@ -6,8 +6,8 @@ This project is for **educational** porpuses only.
 ## Project features
 
 -   CSS
--   html
--   js
+-   Html
+-   Js
 -   NodeJs
 
 
