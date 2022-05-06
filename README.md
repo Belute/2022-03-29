@@ -30,7 +30,7 @@ Justinas: [Github](https://github.com/Belute)
 
 - In frontend terminal type: npm run start
 
-##### How To Use
+##### Code Sample
 
 ```css
 .btn-danger {
